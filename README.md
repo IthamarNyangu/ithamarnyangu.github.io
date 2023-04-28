@@ -5,6 +5,6 @@
 </head>
 
 <body>
-<p>Hello There my name is Ithamar Nyangu, welcome to my porfolio</p>
+<p>Hello there my name is Ithamar Nyangu, welcome to my porfolio</p>
 </body>
 </html>
